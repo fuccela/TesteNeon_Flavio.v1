@@ -1,0 +1,14 @@
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\bin\Debug\netcoreapp2.1\TesteNeon_Flavio.deps.json
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\bin\Debug\netcoreapp2.1\TesteNeon_Flavio.runtimeconfig.json
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\bin\Debug\netcoreapp2.1\TesteNeon_Flavio.runtimeconfig.dev.json
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\bin\Debug\netcoreapp2.1\TesteNeon_Flavio.dll
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\bin\Debug\netcoreapp2.1\TesteNeon_Flavio.pdb
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.csprojAssemblyReference.cache
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.csproj.CoreCompileInputs.cache
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.RazorAssemblyInfo.cache
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.RazorAssemblyInfo.cs
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.AssemblyInfoInputs.cache
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.AssemblyInfo.cs
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.RazorTargetAssemblyInfo.cache
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.dll
+c:\users\flavi_000\source\repos\TesteNeon_Flavio\TesteNeon_Flavio\obj\Debug\netcoreapp2.1\TesteNeon_Flavio.pdb
